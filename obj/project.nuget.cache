@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2ZZ7nqs4Wz4ZS+FINAZc2yiEElDxgW29EUPu8vYhi9vVOaUDB5iVjByDw71Zyq+bbXUkOo8uoC60137E0EATTg==",
+  "dgSpecHash": "T+JvRxz1udFdmNBoXzimAaM0kzBqs1DcuyatRmI7KkQ1sZB1NfSrzG8a4vOGzpumFo9t3ZL0iDUf/6v3jXjs/Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Jorge\\Registro\\Registro.csproj",
+  "projectFilePath": "C:\\Users\\Jorge\\Documents\\7 trimestre\\PROGRAMACION APLICADA I\\2 Registros\\Registro\\Registro.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Jorge\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Jorge\\.nuget\\packages\\microsoft.data.sqlite.core\\7.0.2\\microsoft.data.sqlite.core.7.0.2.nupkg.sha512",

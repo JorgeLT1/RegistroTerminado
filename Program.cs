@@ -12,7 +12,8 @@ builder.Services.AddDbContext<Contexto>(options => options.UseSqlite(ConStr));
 builder.Services.AddRazorPages();
 builder.Services.AddServerSideBlazor();
 builder.Services.AddSingleton<WeatherForecastService>();
-builder.Services.AddScoped<OcupacionesBLL>();
+builder.Services.AddScoped<PersonaBLL>();
+builder.Services.AddScoped<PrestamosBLL>();
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

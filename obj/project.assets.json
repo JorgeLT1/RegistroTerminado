@@ -1352,11 +1352,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jorge\\Registro\\Registro.csproj",
+      "projectUniqueName": "C:\\Users\\Jorge\\Documents\\7 trimestre\\PROGRAMACION APLICADA I\\2 Registros\\Registro\\Registro.csproj",
       "projectName": "Registro",
-      "projectPath": "C:\\Users\\Jorge\\Registro\\Registro.csproj",
+      "projectPath": "C:\\Users\\Jorge\\Documents\\7 trimestre\\PROGRAMACION APLICADA I\\2 Registros\\Registro\\Registro.csproj",
       "packagesPath": "C:\\Users\\Jorge\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jorge\\Registro\\obj\\",
+      "outputPath": "C:\\Users\\Jorge\\Documents\\7 trimestre\\PROGRAMACION APLICADA I\\2 Registros\\Registro\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Jorge\\AppData\\Roaming\\NuGet\\NuGet.Config",
